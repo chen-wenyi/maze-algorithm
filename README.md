@@ -1,0 +1,1 @@
+### 1 is wall and 0 is road in maze(txt)
